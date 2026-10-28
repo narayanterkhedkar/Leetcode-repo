@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -22,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1922-count-good-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
