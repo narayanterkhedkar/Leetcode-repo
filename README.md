@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1922-count-good-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/2409-count-days-spent-together) |
 ## String
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Sorting
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
