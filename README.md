@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1922-count-good-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
