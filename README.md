@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3847-find-the-score-difference-in-a-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3847-find-the-score-difference-in-a-game) |
 <!---LeetCode Topics End-->
