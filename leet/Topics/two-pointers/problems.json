@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers",
+    "tagId": "9"
+  },
+  "updatedAt": "2026-11-22T18:20:54.364Z",
+  "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "leet/0027-remove-element/",
+      "readmePath": "leet/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0027-remove-element.cpp",
+          "path": "leet/0027-remove-element/0027-remove-element.cpp",
+          "sha": "a200f6de45656b3f36514b55c78c928891550007",
+          "lastSyncedAt": "2026-11-22T18:20:54.364Z"
+        }
+      ]
+    }
+  ]
+}
