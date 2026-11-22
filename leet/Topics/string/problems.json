@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-22T18:19:07.767Z",
+  "problems": [
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "leet/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "leet/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.cpp",
+          "path": "leet/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp",
+          "sha": "98f3f4ff2642e7263ba9232e50b0df1958e906c9",
+          "lastSyncedAt": "2026-11-22T18:19:07.767Z"
+        }
+      ]
+    }
+  ]
+}
