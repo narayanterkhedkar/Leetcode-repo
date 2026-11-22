@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T18:21:02.444Z",
+  "updatedAt": "2026-11-22T18:21:14.067Z",
   "problems": [
     {
       "frontendId": "27",
@@ -64,6 +64,26 @@
           "path": "leet/3041-maximize-consecutive-elements-in-an-array-after-modification/3041-maximize-consecutive-elements-in-an-array-after-modification.cpp",
           "sha": "7f4f18fd63277a2bfdb2aa74a69c6d002d02e21c",
           "lastSyncedAt": "2026-11-22T18:21:02.444Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3105",
+      "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+      "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "problemName": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "folderPath": "leet/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/",
+      "readmePath": "leet/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp",
+          "path": "leet/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/3105-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp",
+          "sha": "eb8c6b28d0c8189a2591cc3f8753a7e1a9fd6fd2",
+          "lastSyncedAt": "2026-11-22T18:21:14.067Z"
         }
       ]
     }
