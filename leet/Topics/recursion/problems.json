@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-22T18:21:19.424Z",
+  "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "leet/0021-merge-two-sorted-lists/",
+      "readmePath": "leet/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "leet/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "653128ff5bc493bc25128e71ad9afdba2a22964c",
+          "lastSyncedAt": "2026-11-22T18:21:19.424Z"
+        }
+      ]
+    }
+  ]
+}
