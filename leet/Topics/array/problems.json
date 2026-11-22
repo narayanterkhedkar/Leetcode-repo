@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-22T18:20:44.410Z",
+  "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "leet/0041-first-missing-positive/",
+      "readmePath": "leet/0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0041-first-missing-positive.cpp",
+          "path": "leet/0041-first-missing-positive/0041-first-missing-positive.cpp",
+          "sha": "6712a1496ac057b362d92d2ea6198dbcb211e4df",
+          "lastSyncedAt": "2026-11-22T18:20:44.410Z"
+        }
+      ]
+    }
+  ]
+}
