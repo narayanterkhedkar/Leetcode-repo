@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T18:19:07.767Z",
+  "updatedAt": "2026-11-22T18:20:37.318Z",
   "problems": [
     {
       "frontendId": "2124",
@@ -23,7 +23,7 @@
           "filename": "2124-check-if-all-as-appears-before-all-bs.cpp",
           "path": "leet/2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.cpp",
           "sha": "98f3f4ff2642e7263ba9232e50b0df1958e906c9",
-          "lastSyncedAt": "2026-11-22T18:19:07.767Z"
+          "lastSyncedAt": "2026-11-22T18:20:37.318Z"
         }
       ]
     }
