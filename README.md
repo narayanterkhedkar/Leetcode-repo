@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1922-count-good-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -78,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/0021-merge-two-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
