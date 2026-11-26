@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1352-product-of-the-last-k-numbers) |
 | [1922-count-good-numbers](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/1922-count-good-numbers) |
 | [2409-count-days-spent-together](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3360-stone-removal-game) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Linked List
 |  |
