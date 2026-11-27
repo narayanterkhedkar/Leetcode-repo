@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3411-maximum-subarray-with-equal-products) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/narayanterkhedkar/Leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
